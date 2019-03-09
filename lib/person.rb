@@ -1,5 +1,6 @@
 class Person 
-  def name 
+  def name=(this_dogs_name)
+    
   end
   
   def job 

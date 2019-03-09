@@ -4,7 +4,8 @@ class Dog
   end
   
   def name 
-    
+    this_dogs_hame
+  end
   
   def breed 
   end
